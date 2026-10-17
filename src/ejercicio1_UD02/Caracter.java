@@ -1,4 +1,4 @@
-package ejercicio1;
+package ejercicio1_UD02;
 
 public class Caracter implements Runnable {
 private char caracter;

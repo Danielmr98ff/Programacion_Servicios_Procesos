@@ -1,4 +1,4 @@
-package Ejercicio2;
+package Ejercicio2_UD02;
 
 public class VariableCompartida {
     private int v ;
