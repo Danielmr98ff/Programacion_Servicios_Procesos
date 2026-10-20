@@ -1,6 +1,6 @@
 package Ejercicio4_UD02;
 
-public class Vehiculo {
+public class Vehiculo implements Runnable{
     private String nombre;
     private Pistas bancoPistas;
 
